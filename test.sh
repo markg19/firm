@@ -11,6 +11,3 @@ if [ "$Sum" = "$Original" ]; then
 else
     echo "The firmware is corrupted, the process has been cancelled. Please contact dev"
 fi
-© 2022 GitHub, Inc.
-Terms
-Privacy
